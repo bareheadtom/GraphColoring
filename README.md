@@ -16,7 +16,7 @@ Tabu Search Algorithm: A Case Study on Graph Coloring realized by Python and C++
 # 运算结果python版：
    算例文件名 |   最少着色颜色数      |     迭代次数 |  运算时间 
    ------------|-----------------|----------------|--------------
-   DSJC125.1	    |         5      |          3440 |25.7s  
+   DSJC125.1	    |         5      |          1064 |22s  
    DSJC125.5	    |         17       |          12972 |207.9s
    DSJC125.9	     |        44      |           13333  | 305.3s  
    DSJC250.1	     |        8      |            14835  |  202s
